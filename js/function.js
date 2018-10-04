@@ -1,0 +1,16 @@
+$("#a").click(function(){
+    $("li.changeColor").removeClass("changeColor");
+    $("#a").addClass("changeColor");
+})
+$("#b").click(function(){
+    $("li.changeColor").removeClass("changeColor");
+    $("#b").addClass("changeColor");
+})
+$("#c").click(function(){
+    $("li.changeColor").removeClass("changeColor");
+    $("#c").addClass("changeColor");
+})
+$("#d").click(function(){
+    $("li.changeColor").removeClass("changeColor");
+    $("#d").addClass("changeColor");
+})
